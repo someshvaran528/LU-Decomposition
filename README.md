@@ -13,8 +13,11 @@ To write a program to find the LU Decomposition of a matrix.
 3. 
 4. 
 
-## Program:<img width="774" height="459" alt="Screenshot 2025-11-03 205329" src="https://github.com/user-attachments/assets/6faac1a7-d164-48e5-8469-c2655eb3de05" />
-<img width="1104" height="604" alt="Screenshot 2025-11-03 205402" src="https://github.com/user-attachments/assets/0341fdc3-5e95-4a65-b6c7-c946018d5639" />
+## Program:
+<img width="840" height="285" alt="Screenshot 2026-05-14 112505" src="https://github.com/user-attachments/assets/32991f97-2902-4d7e-ba81-3b94c6c6c739" />
+<img width="737" height="356" alt="Screenshot 2026-05-14 112536" src="https://github.com/user-attachments/assets/1b55102b-f178-40a2-9234-9f3ee428bf88" />
+
+
 
 (i) To find the L and U matrix
 ```
@@ -34,8 +37,10 @@ RegisterNumber:
 ```
 
 ## Output:
-![lu decomposition]()<img width="1225" height="569" alt="Screenshot 2025-11-03 205345" src="https://github.com/user-attachments/assets/dea03200-7c30-4ba8-97aa-3ef071b95f04" />
-<img width="1210" height="258" alt="Screenshot 2025-11-03 205415" src="https://github.com/user-attachments/assets/f11f47b9-045f-46ca-9981-36c8efae7513" />
+<img width="1193" height="436" alt="Screenshot 2026-05-14 112516" src="https://github.com/user-attachments/assets/64882182-39e7-4c9f-82eb-3452a0e67a1b" />
+<img width="871" height="186" alt="Screenshot 2026-05-14 112553" src="https://github.com/user-attachments/assets/7d72bff7-4411-49e2-ae62-41f8d7be23ef" />
+
+
 
 
 
